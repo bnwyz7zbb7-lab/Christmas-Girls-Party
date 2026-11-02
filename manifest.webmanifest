@@ -1,0 +1,14 @@
+{
+  "name": "Christmas Girls Night",
+  "short_name": "Girls Night",
+  "description": "Organiza la cena navideña con tus amigas.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf1",
+  "theme_color": "#a51e36",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
